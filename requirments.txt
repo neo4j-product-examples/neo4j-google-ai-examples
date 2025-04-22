@@ -1,7 +1,7 @@
 # Jupyter Notebook environment
 jupyter
 
-# Google Cloud AI Platform with ADK and Agent Engines
+# AI
 google-cloud-aiplatform[adk, agent_engines]
 
 # Neo4j
@@ -21,3 +21,4 @@ pandas
 # other packages
 tqdm
 pytz
+fpdf
