@@ -3,6 +3,7 @@ jupyter
 
 # AI
 google-cloud-aiplatform[adk, agent_engines]
+langchain-google-genai
 
 # Neo4j
 neo4j-rust-ext
@@ -22,3 +23,5 @@ pandas
 tqdm
 pytz
 fpdf
+pypdf2
+iso3166
