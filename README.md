@@ -1,4 +1,8 @@
-# [WIP] Google Cloud AI Examples w/ Neo4j
+# __:warning: This project is inactive. Contents have been migrated to an updated repository.__
+
+__Going forward please refer to [neo4j-product-examples/ds-recommendation-use-cases](https://github.com/neo4j-product-examples/neo4j-supplier-graph)__
+
+# Google Cloud AI Examples w/ Neo4j
 
 A working example for deploying a GraphRAG agent to automate Bill of Materials and Supply chain analytics.
 
